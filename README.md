@@ -10,10 +10,10 @@ PUSH IT TO THE LIMIT
 >> Iron Man
 =======
 <<<<<<< HEAD
-Push it 
+Push it
 pull it
-publish it 
-fetch it 
+publish it
+fetch it
 =======
 
 There once was an andoid named _2B_
@@ -24,3 +24,7 @@ She was part of the *YoRHa* group
 >>>>>>> 64a82ae3bfac426b0a9bfa031d76a2b12a32055b
 
 A git pull a day keeps merge conflicts away
+
+
+Get up stand up
+Stand up for your right!!!
