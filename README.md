@@ -28,3 +28,8 @@ A git pull a day keeps merge conflicts away
 
 Get up stand up
 Stand up for your right!!!
+
+# In every job that must be done
+# There is an element of fun
+# You find the fun and snap!
+# *The job's a game*
