@@ -22,3 +22,5 @@ She was part of the *YoRHa* group
 > This group was created for mankind's salavation after being invaded from space
 >>>>>>> c5fccacc07cd73cbc12010f300a2ad43b30f4363
 >>>>>>> 64a82ae3bfac426b0a9bfa031d76a2b12a32055b
+
+A git pull a day keeps merge conflicts away
