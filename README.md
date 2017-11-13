@@ -55,3 +55,11 @@ The one who invented the door knocker got a No-bell prize.
  I am not
 
  I'm not a storyteller either
+
+
+
+#### I am no shrimp or any kind of seafood but ... ####
+
+.... sometimes I just want to be like my buddy Maurice ...
+
+he's a shrimp like no other and he's pretty legit
