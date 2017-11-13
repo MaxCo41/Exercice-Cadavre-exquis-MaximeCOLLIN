@@ -1,4 +1,4 @@
-# Exercice-Cadavre-exquis-MaximeCOLLIN
+﻿# Exercice-Cadavre-exquis-MaximeCOLLIN
 Je vais y arriver
 Merci quentin
 Ca va le faire !
@@ -23,4 +23,8 @@ She was part of the *YoRHa* group
 >>>>>>> c5fccacc07cd73cbc12010f300a2ad43b30f4363
 >>>>>>> 64a82ae3bfac426b0a9bfa031d76a2b12a32055b
 
-A git pull a day keeps merge conflicts away
+A git pull a day keeps merge conflicts away 
+ 
+ I'm not racist I swear.
+ Chinese kid was born before the due date. 
+ Parents named him Sudden Lee.
