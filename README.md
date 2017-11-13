@@ -28,3 +28,9 @@ A git pull a day keeps merge conflicts away
 
 Get up stand up
 Stand up for your right!!!
+
+
+### Have some jokes :no_mouth: :
+Atheists don't solve exponential equations because they don't believe in higher powers.
+The one who invented the door knocker got a No-bell prize.
+
