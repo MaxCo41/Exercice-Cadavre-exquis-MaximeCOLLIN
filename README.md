@@ -24,10 +24,10 @@ She was part of the *YoRHa* group
 >>>>>>> 64a82ae3bfac426b0a9bfa031d76a2b12a32055b
 
 <<<<<<< HEAD
-A git pull a day keeps merge conflicts away 
- 
+A git pull a day keeps merge conflicts away
+
  I'm not racist I swear.
- Chinese kid was born before the due date. 
+ Chinese kid was born before the due date.
  Parents named him Sudden Lee.
 =======
 A git pull a day keeps merge conflicts away
@@ -49,3 +49,31 @@ The one who invented the door knocker got a No-bell prize.
 # *The job's a game*
 >>>>>>> 19036ab7c4bf99ac4b5a41a53fd4982cecffe9cf
 >>>>>>> 696c4768e5c04ce0b729d5a8d12349ac5f63f861
+
+# Franklin is a turtle
+
+ I am not
+
+ I'm not a storyteller either
+
+
+
+#### I am no shrimp or any kind of seafood but ... ####
+
+.... sometimes I just want to be like my buddy Maurice ...
+
+he's a shrimp like no other and he's pretty legit
+
+<<<<<<<
+##### Ik ging slapen met een doezoe, werd wakker met een ton
+##### En vaak denk ik aan vroeger, ik weet waar het begon
+##### Nu denk ik aan miljoenen, nee vraag me niet waarom
+
+=======
+`26` projets modifiés aujourd'hui sur la journée.
+
+Plus que 15 minutes pour *finir*
+
+:coffee:
+
+>>>>>>>
