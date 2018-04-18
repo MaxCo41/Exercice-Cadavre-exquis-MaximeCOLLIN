@@ -1,4 +1,10 @@
 ﻿# Exercice-Cadavre-exquis-MaximeCOLLIN
+ 
+ 
+ Exercice du cadavre exquis pour apprendre Git et Github.
+ 
+ 
+ 
 <p>Je vais y arriver</p>
 Merci quentin
 Ca va le faire !
